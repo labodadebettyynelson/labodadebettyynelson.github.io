@@ -64,18 +64,18 @@ background-attachment: fixed;
 .contenido .info .nombres1{
  font-family: 'Cantata One', serif;
     color: #fff;
-    font-size: 25px;
+    font-size: 35px;
     text-shadow: 0px 1px 10px rgba(0,0,0,0.4);
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     letter-spacing: 3px;
 }
 .contenido .info .nombres2{
   font-family: 'Cantata One', serif;
     color: #fff;
-    font-size: 25px;
+    font-size: 35px;
     text-shadow: 0px 1px 10px rgba(0,0,0,0.4);
     margin-bottom: 10px;
-    letter-spacing: 2px;
+    letter-spacing: 6px;
 }
 
 .contenido .info a{
@@ -294,18 +294,18 @@ margin-top: -10px;
 .contenido .info .nombres1{
  font-family: 'Cantata One', serif;
     color: #fff;
-    font-size: 18px;
+    font-size: 35px;
     text-shadow: 0px 1px 10px rgba(0,0,0,0.4);
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     letter-spacing: 3px;
 }
 .contenido .info .nombres2{
   font-family: 'Cantata One', serif;
     color: #fff;
-    font-size: 18px;
+    font-size: 35px;
     text-shadow: 0px 1px 10px rgba(0,0,0,0.4);
     margin-bottom: 10px;
-    letter-spacing: 2px;
+    letter-spacing: 6px;
 }
 
 .contenido .info a{
@@ -686,18 +686,18 @@ text-shadow: 0px 0px 0px;
 .contenido .info .nombres1{
  font-family: 'Cantata One', serif;
     color: #fff;
-    font-size: 23px;
+    font-size: 31px;
     text-shadow: 0px 1px 10px rgba(0,0,0,0.4);
-    margin-bottom: 5px;
+    margin-bottom: 0spx;
     letter-spacing: 3px;
 }
 .contenido .info .nombres2{
   font-family: 'Cantata One', serif;
     color: #fff;
-    font-size: 23px;
+    font-size: 31px;
     text-shadow: 0px 1px 10px rgba(0,0,0,0.4);
     margin-bottom: 10px;
-    letter-spacing: 2px;
+    letter-spacing: 6px;
 }
 
 .contenido .info a{
@@ -1606,7 +1606,7 @@ display: block;
     width: 100%;
     max-width: 750px;
     text-align: center;
-   margin-top: 150px;
+   margin-top: 210px;
 
 }
   .imagenPortada{
